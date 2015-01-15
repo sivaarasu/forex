@@ -91,7 +91,7 @@ class forex:
 		
 		return pk
 	#
-	#cron will get the yesterday's exchange rate
+	#cron will get the given date's exchange rate
 	def __call_oanda(self, start_date, currency_from, currency_to):
 		if currency_from == currency_to:
 			return float(1)
