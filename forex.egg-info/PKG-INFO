@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: forex
+Version: 0.0.1
+Summary: Gets exchange rate from USD/SGD to PHP,IDR,MYR,THB,VND
+Home-page: https://github.com/youraccount/foolib
+Author: Siva
+Author-email: siv.don@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: GIS
